@@ -1,0 +1,12 @@
+[submodule "HW"]
+	path = hw
+	url = git@github.com:znibb/RackPowerDistributionUnit_HW.git
+	branch = main
+[submodule "SW"]
+	path = sw
+	url = git@github.com:znibb/RackPowerDistributionUnit_SW.git
+	branch = main
+[submodule "Mech"]
+	path = mech
+	url = git@github.com:znibb/RackPowerDistributionUnit_Mech.git
+	branch = main
